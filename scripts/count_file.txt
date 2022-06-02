@@ -1,0 +1,5 @@
+blue and yellow macaw,bird
+blue jay,bird
+blue whale,mammal
+bluefin tuna,fish
+blue morpho,insect
