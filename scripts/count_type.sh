@@ -3,6 +3,6 @@
 
 # This script shoule be run from the directory containing Animals.csv
 
-count=`grep $1 Animals.csv | wc -l`
+count=$(grep $1 Animals.csv | wc -l)
 
 echo There are $count lines in Animals.csv that contain the string \"$1\".

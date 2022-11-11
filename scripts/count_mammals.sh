@@ -2,6 +2,6 @@
 
 # This script shoule be run from the directory containing Animals.csv.
 
-count=`grep mammal Animals.csv | wc -l`
+count=$(grep mammal Animals.csv | wc -l)
 
 echo There are $count mammals on the list.

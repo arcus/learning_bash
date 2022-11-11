@@ -7,6 +7,6 @@ echo What string do you want to search for?
 
 read string
 
-count=`grep $string Animals.csv | wc -l`
+count=$(grep $string Animals.csv | wc -l)
 
 echo There are $count lines in Animals.csv that contain the string \"$string\".
