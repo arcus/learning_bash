@@ -1,7 +1,7 @@
 # This script is an interactive script that returns a count of how many animals
 # in Animals.csv contain that input string.
 
-# This script shoule be run from the directory containing Animals.csv.
+# This script should be run from the directory containing Animals.csv.
 
 echo What string do you want to search for?
 
